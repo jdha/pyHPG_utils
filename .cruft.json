@@ -1,0 +1,18 @@
+{
+  "template": "https://github.com/ecmwf-projects/cookiecutter-conda-package",
+  "commit": "54a28e5611040c398c74454de4e6147c79cb5a39",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "pyHPG_utils",
+      "project_slug": "pyhpg_utils",
+      "project_short_description": "Utilies to look at Horizontal Pressure Gradient errors in NEMO simulations.",
+      "copyright_holder": "European Union",
+      "copyright_year": "2024",
+      "mypy_strict": false,
+      "integration_tests": false,
+      "_template": "https://github.com/ecmwf-projects/cookiecutter-conda-package"
+    }
+  },
+  "directory": null
+}
